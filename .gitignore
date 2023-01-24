@@ -1,0 +1,6 @@
+# Gitginore file for python data modeling projects
+.ipynb_checkpoints
+__pycache__
+*.pyc
+data/
+lightning_logs/
