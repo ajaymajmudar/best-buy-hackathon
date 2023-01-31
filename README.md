@@ -1,6 +1,6 @@
 # best-buy-project-week
 
-Please view slide deck for presentation (presentation-slide-deck.pptx) of problem statement, EDA process, feature engineering, model selection, model refinement, and model results!
+Please view slide deck for presentation (best-buy-presentation.pdf) of problem statement, EDA process, feature engineering, model selection, model refinement, and model results!
 
 Repo structure
 
